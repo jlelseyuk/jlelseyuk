@@ -1,9 +1,8 @@
-# 👨🏻‍💻 Hi, I'm James!
+# Hi, I'm James!
 
-🖥️ &nbsp;I design, build, deliver and maintain web products and digital solutions.<br>
-🚴🏻 &nbsp;Sometimes I ride bikes!
+I design, build, deliver and maintain web products and digital solutions.<br>
 
-## Main focus...
+## About
 
 - Front-end Development
 - UI/UX Design
@@ -14,19 +13,7 @@
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jlelseyuk&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlelseyuk&theme=github-compact"/>
-</p>
-
----
-
-## Core skills
+## Skills
 
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,4 +44,4 @@
 
 ## Website
 
-Enquiries & Portfolio: [www.jameselsey.com](https://www.jameselsey.com)
+[www.jameselsey.com](https://www.jameselsey.com)
