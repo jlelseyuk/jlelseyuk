@@ -11,8 +11,6 @@ I design, build, deliver and maintain web products and digital solutions.<br>
 - Design Systems & Digital Strategy
 - Performance Focused
 
----
-
 ## Skills
 
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
@@ -39,9 +37,3 @@ I design, build, deliver and maintain web products and digital solutions.<br>
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## Website
-
-[www.jameselsey.com](https://www.jameselsey.com)
